@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.4";			
+f[1]	= "01 Luminous Times (Hold on to Love) [-].mp3";		
+f[2]	= "02 Walk to the Water [-].mp3";		
+f[3]	= "03 Spanish Eyes [-].mp3";		
+f[4]	= "04 Deep in the Heart [-].mp3";		
+f[5]	= "05 Silver and Gold [-].mp3";		
+f[6]	= "06 Sweetest Thing [-].mp3";		
+f[7]	= "07 Race Against Time [-].mp3";		
+f[8]	= "08 Where the Streets Have No Name [-][Single Edit].mp3";		
+f[9]	= "09 Track 9.mp3";		
+f[10]	= "10 Silver and Gold (Sun City) [-].mp3";		
+f[11]	= "11 Beautiful Ghost-Introduction to Songs of Experience [-].mp3";		
+f[12]	= "12 Wave of Sorrow (Birdland) [-].mp3";		
+f[13]	= "13 Desert of Our Love [-].mp3";		
+f[14]	= "14 Rise Up [-].mp3";		
