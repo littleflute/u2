@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.5";			
+f[1]	= "01 Where the Streets Have No Name.mp3";		
+f[2]	= "02 I Still Haven't Found What I'm Looking For.mp3";		
+f[3]	= "03 With or Without You.mp3";		
+f[4]	= "04 Bullet the Blue Sky.mp3";		
+f[5]	= "05 Running to Stand Still.mp3";		
+f[6]	= "06 Red Hill Mining Town.mp3";		
+f[7]	= "07 In God's Country.mp3";		
+f[8]	= "08 Trip Through Your Wires.mp3";		
+f[9]	= "09 One Tree Hill.mp3";		
+f[10]	= "10 Exit.mp3";		
+f[11]	= "11 Mothers of the Disappeared.mp3";		
